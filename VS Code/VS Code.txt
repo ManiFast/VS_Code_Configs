@@ -1,0 +1,89 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "files.autoSave": "onWindowChange",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.renderControlCharacters": false,
+    "python.pythonPath": "C:\\Users\\Stas\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+    "workbench.sideBar.location": "left",
+    "editor.hover.enabled": false,
+    "editor.renderWhitespace": "none",
+    "window.zoomLevel": 0,
+    "ecsstractor_port.bem_nesting": true,
+    "editor.fontFamily": "'SourceCodePro-Medium'",
+    "editor.fontLigatures": null,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.cursorBlinking": "expand",
+    "workbench.preferredLightColorTheme": "Brackets Dark Pro",
+    "workbench.colorTheme": "Material Theme Darker",
+    "editor.codeActionsOnSave": null,
+    "powermode.enabled": true,
+    "powermode.enableShake": false,
+    "editor.fontSize": 13,
+    "files.associations": {
+    
+    },
+    "editor.renderIndentGuides": false,
+    "editor.tabSize": 2,
+    "[yaml]": {
+    
+    },
+    "editor.insertSpaces": false,
+    "workbench.editor.closeEmptyGroups": false,
+}
+
+04.06.2020
+
+{
+    // Icons
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true,
+    // Mimi map
+    "editor.minimap.enabled": false,
+    // Prompt bar at the up
+    "breadcrumbs.enabled": false,
+    "files.autoSave": "onWindowChange",
+    // Live preview
+    "liveServer.settings.donotShowInfoMsg": true,
+    // Plugins
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderControlCharacters": false,
+    "python.pythonPath": "C:\\Users\\Stas\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+    "ecsstractor_port.bem_nesting": true,
+        // View
+        "editor.fontFamily": "Fira Code",
+        "editor.fontLigatures": null,
+        "editor.fontLigatures": true,
+        "editor.fontSize": 12.7,
+        "editor.tabSize": 2,
+        //"editor.fontFamily": "'SourceCodePro-Medium'",
+        //"workbench.preferredLightColorTheme": "Brackets Dark Pro",
+        "workbench.colorTheme": "Material Theme Darker",
+        "workbench.sideBar.location": "right",
+        "editor.hover.enabled": false,
+        "editor.renderWhitespace": "none",
+        "powermode.enabled": true,
+        "powermode.enableShake": false,
+        "window.zoomLevel": 0,
+        "workbench.tree.indent": 10,  
+    // ETC
+    "editor.cursorBlinking": "expand",
+    "editor.codeActionsOnSave": null,
+    "files.associations": {},
+    "editor.renderIndentGuides": false,
+    "[yaml]": {},
+    "editor.insertSpaces": false,
+    "workbench.editor.closeEmptyGroups": false,
+    "cSpell.userWords": ["Направление","текста"],
+}
+
+21.06.2020
+=========================================================================
+
+Brackets
+
+Font="'SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace"
